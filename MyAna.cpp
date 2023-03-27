@@ -65,7 +65,7 @@ void MyAna::initialize (string infname, string outfname)
     down_cnt = 0;
     up_cnt_timecut = 0;
     down_cnt_timecut = 0;
-    pene_event_ADC_hist = new TH1D ("pene_ADC", "penetrating ADC value hist", 4089, 0, 4089);
+    pene_event_ADC_hist = new TH1D ("pene_ADC", "penetrating ADC value hist", 1000, 0, 4090);
 
 
     //***************input channel number for each det*****************
