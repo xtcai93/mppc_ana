@@ -31,3 +31,4 @@ This log records the data information of each DAQ in J-PARC Polarization Project
 ### Test 10
     Mar 26 - Mar 27, ~24 hrs
 	With 1 Hz pulse, 350 threshold DAC1, trigger rate: 300 - 400 kHz
+    All well
